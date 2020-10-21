@@ -1,0 +1,8 @@
+Build a Job Board with Python & Flask
+1) Install python3 (check pip --version, if not available: sudo apt install python3 -pip)
+2) Get virtualenv: python3 -m pip install --user virtualenv
+3) Change to project folder: cd FlaskJobBoard
+4) Create virtual environment: python3 -m venv venvJB
+5) Activate it: source venvJB/bin/activate
+6) Install requeriments: 
+7) Install Atom
